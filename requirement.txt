@@ -1,0 +1,13 @@
+pymupdf
+sentence_transformers
+pdfplumber
+lancedb
+pandas
+torch
+numpy
+scipy
+Transformers
+groq
+python-dotenv
+streamlit
+huggingface_hub
